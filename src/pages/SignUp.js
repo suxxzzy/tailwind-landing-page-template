@@ -19,7 +19,7 @@ function SignUp() {
 
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-                <h1 className="h1">안녕하세요, 이 부분은 수정한 제목입니다. </h1>
+                <h1 className="h1">안녕하세요, 이 부분은 수정한 제목입니다 테스트 중입니다</h1>
               </div>
 
               {/* Form */}
